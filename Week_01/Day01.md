@@ -37,5 +37,6 @@ What should I improve tomorrow?
 - SOC Analysts spend a large amount of time analyzing logs and triaging alerts.
 - My next learning goal is to understand how logs are generated and how alerts are created.
 
-
-**Every heavy step taken today makes the path of tomorrow brighter**
+Every achievement begins at somewhere. For me it started here.
+always remember
+Every heavy step taken today makes the path of tomorrow brighter
