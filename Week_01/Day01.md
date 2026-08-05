@@ -1,11 +1,11 @@
-Foundation Assessment & Linux / Networking Basics
+## Foundation Assessment & Linux / Networking Basics*
 
 Today marks the start of this project. Its primary objective is to diversify and concretely apply 
 the knowledge I gained at FPT University to a professional work environment and, 
 of course, to enhance my CV and fulfill my internship requirements. 
 I’ll wrap up the introduction here and dive into what I actually accomplished today.
 
-Day1: 
+**Day1**
 Task complete: Created GitHub repository.
 Organized Week_01 folder.
 Started TryHackMe learning path
@@ -21,7 +21,7 @@ Blue Team
 
 
 
-## Reflection
+**Reflection**
 
 What did I learn today?
 
@@ -31,8 +31,7 @@ What should I improve tomorrow?
 
 
 
-## Keywords in the lesson 
-
+**Keywords in the lesson**
 - Defensive Security is not only about prevention.
 - Detection, Investigation, Response and Recovery are equally important.
 - SOC Analysts spend a large amount of time analyzing logs and triaging alerts.
