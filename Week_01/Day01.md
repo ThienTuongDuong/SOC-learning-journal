@@ -39,4 +39,4 @@ What should I improve tomorrow?
 - My next learning goal is to understand how logs are generated and how alerts are created.
 
 
-Every heavy step taken today makes the path of tomorrow brighter.
+**Every heavy step taken today makes the path of tomorrow brighter**
